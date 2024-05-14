@@ -43,7 +43,7 @@
 
 ## :blossom: 架构
 
-![输入图片说明](imgs/front-tool-construct.png)
+![输入图片说明](imgs/front-tool-fun.png)
 
 ## :blossom: 功能和特性
 
