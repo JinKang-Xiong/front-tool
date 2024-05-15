@@ -43,13 +43,13 @@
 
 ## :blossom: 架构
 
-![输入图片说明](imgs/front-tool-fun.png)
+![输入图片说明](imgs/front-tool-construct.png)
 
 ## :blossom: 功能和特性
 
 ### 功能一览：
 
-![输入图片说明](imgs/%E5%8A%9F%E8%83%BD%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.jpg)
+![输入图片说明](imgs/front-tool-fun.png)
 ### 小记功能
 
 1）增加小记功能：用户可以将需要记录的句子和思考，还有用户可以使用任务多选框的形式记录，还可以改变任务的状态，完成和未完成的状态，还可以为每一条小记增加标签，方便查询。
